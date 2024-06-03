@@ -1,5 +1,5 @@
 # GymGrid
-I developed this Auth application using MERN stack, Cloudinary, &amp; Tailwind CSS
+I developed this Authentication and Authorization application using MERN stack, Cloudinary, &amp; Tailwind CSS
 
 Frontend Code Repo: https://github.com/anishtanwar11/GymGrid-Frontend
 
